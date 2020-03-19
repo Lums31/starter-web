@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 
 Adding a line for rebasing example....
+
+
+Copyrights..
+All rights reserved.
